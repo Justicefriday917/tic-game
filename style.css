@@ -1,0 +1,27 @@
+body{
+    font-family: 'Pacifico', cursive;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+
+}
+.papper{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: wheat;
+    font-size: 20px;
+
+}
+.stopButton{
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+
+}
+button:hover{
+    opacity: 50%;
+}
